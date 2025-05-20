@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~XUcT1QZD#ArzNaojwwc2x3fvkD2siZ_uoa_K1NsBI2L4--GMLxr4"
     },  
     
     "STICKER_NAME": {
@@ -36,7 +36,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "x-Kevin"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "94756539252"
 
     }, 
 
@@ -131,7 +131,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
@@ -149,7 +149,7 @@
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     }, 
     
@@ -162,7 +162,7 @@
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
-      "value": "same"
+      "value": "-same-"
     }, 
 
     "READ_MESSAGE": {
